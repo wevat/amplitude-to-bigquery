@@ -1,4 +1,4 @@
-requests==2.22.0
+requests==2.31.0
 pandas==0.25.3
 google-cloud-storage==1.23.0
 pandas-gbq==0.12.0
